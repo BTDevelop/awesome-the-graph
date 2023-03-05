@@ -1,4 +1,4 @@
-# awesome-the-graph [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome the graph [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <a href="https://thegraph.com/en/">
     <img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/The-Graph-900x0.png"
@@ -91,6 +91,21 @@ A curated list of The Graph related tools, frameworks and articles.
 
 - [Subgraph Studio](https://thegraph.com/studio/)
 
+### Analytics
+
+- [Stake Machine](https://thegraph.stake-machine.com/?orgId=1&refresh=5m)
+- [graphscan.io](https://graphscan.io/#indexers)
+
+### Courses & Bootcamps & Learning Resources
+
+- [The Graph Academy](https://thegraph.academy/course/subgraph-developer-course/)
+- [freeCodeCamp.org](https://www.youtube.com/watch?v=cQx6ig3mp1U)
+- [LearnWeb3](https://learnweb3.io/)
+- [Odyssey](https://www.odysseydao.com/)
+- [GRTIQ](https://www.grtiq.com/)
+- [Graphtronauts](http://graphtronauts.com/)
+- [Figment](https://learn.figment.io/protocols/thegraph)
+
 ### Community Repositories
 
 - https://github.com/Uniswap/v2-subgraph
@@ -104,6 +119,12 @@ A curated list of The Graph related tools, frameworks and articles.
 - https://github.com/Synthetixio/synthetix-subgraph
 - https://github.com/pangolindex/subgraph
 
+### Community Tooling
+
+- [The Index](https://www.podpage.com/the-index-podcast/episodes/?page=2)
+- [Curation Station](https://t.me/+y1VTNatyPq8wN2Ix)
+- [Indexer Office Hours](https://forum.thegraph.com/t/indexer-office-hours/1270)
+
 ### Community
 
 - [Discord](https://discord.com/invite/vtvv7FP)
@@ -111,6 +132,15 @@ A curated list of The Graph related tools, frameworks and articles.
 - [GitHub](https://twitter.com/graphprotocol)
 - [Telegram](https://t.me/graphprotocol)
 - [Reddit](https://www.reddit.com/r/thegraph)
+
+### Podcasts
+
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/grtiq-podcast/id1559587482)
+- [Spotify](https://open.spotify.com/show/1RrZvU2JYL5u65KYlI2zCP)
+- [Amazon Music](https://www.amazon.com/item_name/dp/B08K58DQ31/ref=sr_1_1?dchild=1&keywords=grtiq&qid=1617974588&sr=8-1)
+- [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNzMzMDA0LnJzcw==)
+- [Stitcher](https://www.stitcher.com/show/grtiq-podcast)
+- [Youtube](https://www.youtube.com/channel/UCxhFN47AlCDx1Qoaw1oSQ5A)
 
 ### Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
