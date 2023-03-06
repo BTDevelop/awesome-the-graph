@@ -16,8 +16,12 @@ A curated list of The Graph related tools, frameworks and articles.
     - [Books](#books)
     - [Slides](#slides)
     - [Labs](#labs)
+    - [Analytics](#analytics)
+    - [Courses, Bootcamps and Learning Resources](#courses-bootcamps-and-learning-resources)
     - [Community Repositories](#community-repositories)
+    - [Community Tooling](#community-tooling)
     - [Community](#community)
+    - [Podcasts](#podcasts)
     - [Contribute](#contribute)
 
 ### Official Projects
@@ -78,6 +82,11 @@ A curated list of The Graph related tools, frameworks and articles.
 - [The Graph is offering a record $2.5M bug bounty program in partnership with Immunefi](https://medium.com/graphprotocol/the-graph-is-offering-a-record-2-5m-bug-bounty-program-in-partnership-with-immunefi-eda50eb59f6c)
 - [The Graph Awards $60M Grant to Semiotic AI to Join The Graph as a Core Developer](https://medium.com/graphprotocol/the-graph-awards-60m-grant-to-semiotic-ai-to-join-the-graph-as-a-core-developer-2d6e9c88ab7)
 - [The Graph Foundation awards $48 million grant to The Guild to join The Graph as a Core Developer](https://medium.com/graphprotocol/the-graph-foundation-awards-48-million-grant-to-the-guild-to-join-the-graph-as-a-core-developer-d191e3153504)
+- [Get Started with The Graph — Blockchain Roadmap](https://medium.com/coinmonks/the-graph-blockchain-roadmap-b114201458e9)
+- [Graphtronauts Community Tracker Report — February 2023](https://blog.graphtronauts.com/graphtronauts-community-tracker-report-february-2023-bbf88d567627)
+- [Flash Loans, The Graph, and Triangular Arbitrage : Your Quick Guide to Profit In Decentralized Markets
+](https://medium.com/@bgskinner3/flash-loans-the-graph-and-triangular-arbitrage-your-quick-guide-to-profit-in-decentralized-2e1c03aec82)
+- [The Graph: ‘Google of Blockchains](https://medium.com/coinmonks/the-graph-the-google-of-blockchains-56a753b605bd)
 
 ### Books
 
@@ -96,7 +105,7 @@ A curated list of The Graph related tools, frameworks and articles.
 - [Stake Machine](https://thegraph.stake-machine.com/?orgId=1&refresh=5m)
 - [graphscan.io](https://graphscan.io/#indexers)
 
-### Courses & Bootcamps & Learning Resources
+### Courses, Bootcamps and Learning Resources
 
 - [The Graph Academy](https://thegraph.academy/course/subgraph-developer-course/)
 - [freeCodeCamp.org](https://www.youtube.com/watch?v=cQx6ig3mp1U)
