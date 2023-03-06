@@ -11,6 +11,7 @@ A curated list of The Graph related tools, frameworks and articles.
 
 - [Contents](#contents)
     - [Official Projects](#official-projects)
+    - [Tutorials](#tutorials)
     - [Videos](#videos)
     - [Articles](#articles)
     - [Books](#books)
@@ -36,6 +37,15 @@ A curated list of The Graph related tools, frameworks and articles.
 - [Uniswap Subgraph](https://github.com/graphprotocol/uniswap-subgraph) - This is for uniswap-v1.
 - [Everest](https://github.com/graphprotocol/everest) - Registry of crypto projects.
 - [Docs](https://github.com/graphprotocol/docs) - Documentation for The Graph.
+
+
+### Tutorials
+
+- [Getting Started.](https://thegraph.academy/developers/getting-started)
+- [Local Development.](https://thegraph.academy/developers/local-development)
+- [Hosted Service.](https://thegraph.academy/developers/hosted-service)
+- [Defining a Subgraph.](https://thegraph.academy/developers)
+- [Deploying a Subgraph.](https://thegraph.academy/developers/deploying-a-subgraph)
 
 ### Videos
 
