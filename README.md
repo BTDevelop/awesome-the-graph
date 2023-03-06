@@ -94,7 +94,8 @@ A curated list of The Graph related tools, frameworks and articles.
 
 ### Slides
 
-- []()
+- [what is the graph](https://www.slideshare.net/danishshah40/what-is-the-graph)
+- [Graph protocol for accessing information about blockchains and dapps](https://www.slideshare.net/Leybzon/graph-protocol-for-accessing-information-about-blockchains-and-d-apps)
 
 ### Labs
 
