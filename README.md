@@ -21,6 +21,7 @@ A curated list of The Graph related tools, frameworks and articles.
     - [Community Repositories](#community-repositories)
     - [Community Tooling](#community-tooling)
     - [Community](#community)
+    - [Ecosystem](#ecosystem)
     - [Podcasts](#podcasts)
     - [Contribute](#contribute)
 
@@ -142,6 +143,13 @@ A curated list of The Graph related tools, frameworks and articles.
 - [GitHub](https://twitter.com/graphprotocol)
 - [Telegram](https://t.me/graphprotocol)
 - [Reddit](https://www.reddit.com/r/thegraph)
+
+### Ecosystem
+
+- [Grants](https://thegraph.com/ecosystem/grants)
+- [Governance](https://thegraph.com/ecosystem/governance)
+- [MIPs Incentivized Program](https://thegraph.com/migration-incentive-program)
+- [Graph AdvocatesDAO](https://thegraph.com/ecosystem/advocacy)
 
 ### Podcasts
 
